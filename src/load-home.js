@@ -8,5 +8,7 @@ export default function loadHome() {
     const directions = document.createElement("p")
     directions.textContent = "Located at the intersection of every freeway, we're just 10 minutes from you - wherever you are!"
     home.appendChild(directions)
+
+    return home
 }
 

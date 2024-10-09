@@ -15,4 +15,6 @@ menu.appendChild(title)
 const desc = document.createElement("p")
 desc.textContent = "Get your hot pizza! With all the fixings!"
 menu.appendChild(desc)
+
+return menu
 }

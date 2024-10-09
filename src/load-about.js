@@ -8,4 +8,6 @@ about.appendChild(title)
 const message = document.createElement("p")
 message.textContent = "Why, we're about pizza! What else!"
 about.appendChild(message)
+
+return about
 }
