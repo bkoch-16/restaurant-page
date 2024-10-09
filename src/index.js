@@ -1,3 +1,2 @@
 import "./styles.css"
-
-alert("yes")
+import "./load-content.js"
