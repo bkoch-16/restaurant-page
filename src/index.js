@@ -1,4 +1,5 @@
 import "./styles.css"
-import "./load-content.js"
-import "./load-home.js"
-import "./load-about.js"
+import loadHome from "./load-home.js"
+import loadMenu from "./load-menu.js"
+import loadAbout from "./load-about.js"
+
