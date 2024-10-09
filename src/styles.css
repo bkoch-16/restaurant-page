@@ -1,5 +1,14 @@
+nav {
+    width: 95vw;
+    height: 50px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #content {
-    width: 500px;
+    width: 95vw;
     height: 500px;
     
     display: flex;
