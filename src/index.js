@@ -29,3 +29,7 @@ aboutButton.addEventListener("click", () => {
     
     tabContent.appendChild(aboutContent)
 })
+
+const homeContent = loadHome()
+    
+tabContent.appendChild(homeContent)
